@@ -1,4 +1,4 @@
 # hello-world
 hello-world project
 
-hello I am learning Github
+My name is Samreen. Hello I am learning Github.
